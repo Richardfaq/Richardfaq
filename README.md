@@ -16,3 +16,4 @@
 <img align="center" alt="lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-plain.svg" />
 <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+![8882bcf327896ab79fb97e85ae63a002](https://github.com/Richardfaq/Richardfaq/assets/143405903/1b25cf0d-6791-4998-a97e-7e73ed12cb4a)
